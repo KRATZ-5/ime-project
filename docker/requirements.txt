@@ -1,0 +1,16 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+django-cors-headers
+celery
+redis
+gunicorn
+Pillow
+python-dotenv
+django-filter
+drf-yasg
+geopandas
+shapely
+pyproj
+django-extensions

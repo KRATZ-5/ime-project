@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@types/d3": "^7.4.3",
+    "@types/jest": "^29.5.14",
+    "@types/react-datepicker": "^6.2.0",
+    "axios": "^1.9.0",
+    "chart.js": "^4.4.9",
+    "d3": "^7.9.0",
+    "ol": "^10.5.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-datepicker": "^8.3.0",
+    "react-router-dom": "^7.5.3",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^19.1.3"
+  }
+}
