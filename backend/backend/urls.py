@@ -6,6 +6,7 @@ from energy import views as energy_views
 from users import views as user_views
 
 
+
 # schema_view = get_schema_view(
 #    openapi.Info(title="Energy API", default_version='v1', description="Документация API"),
 #    public=True,
